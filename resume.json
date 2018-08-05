@@ -1,0 +1,35 @@
+{
+	"basics":{
+		"email":"kaladiyailaf@gmail.com",
+		"name":"Ilaf Kaladiya",
+		"phone":"9594517678",
+		"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum tempore soluta vero, accusamus amet recusandae sint, nulla consequatur quidem totam, saepe voluptates debitis, ipsum aperiam molestias adipisci facilis fugit esse.",
+		"location":{
+ 			"city":"Panvel",
+ 			"region": "Mumbai Metropolitian Region(MMR)",
+ 			"State":"Maharashtra",
+ 			"Country":"India",
+ 			"Country-code":"IN",
+		},
+		"education":[{
+				"institution":"Mumbai University",
+				"area":"Computer Science",
+				"studytype":"BE",
+
+			}
+ 		],
+
+ 		"Skills":
+ 			"languages":[{
+ 				"name":"python",
+ 				"level":"Beginner",
+ 				"ratings":"5",
+ 			}
+ 			]
+
+ 		}
+
+
+ 	}
+
+}

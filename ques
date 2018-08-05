@@ -1,0 +1,63 @@
+Q 1 - What is correct syntax for main method of a java class?
+
+A - public static int main(String[] args)
+
+B - public int main(String[] args)
+
+C - public static void main(String[] args)   correct
+
+D - None of the above.
+
+
+Q 2 - What is inheritance?
+
+A - It is the process where one object       acquires the properties of another.      correct
+
+B - inheritance is the ability of an object to take on many forms.
+
+C - inheritance is a technique to define different methods of same type.
+
+D - None of the above.
+
+
+Which class can access all public and protected methods and fields of its super class?
+A	Inner class
+B	outer class
+C	sub-class                     correct
+D	Super class 
+
+
+Which is a valid keyword in java?
+
+A.	interface       correct
+B.	string
+C.	Float
+D.	unsigned
+
+
+
+
+Which one of the following will declare an array and initialize it with five numbers?
+
+A.	Array a = new Array(5);
+B.	int [] a = {23,22,21,20,19};      correct
+C.	int a [] = new int[5];
+D.	int [5] array;
+
+
+13. 	
+Which is a valid declarations of a String?
+
+A.	String s1 = null;            correct
+B.	String s2 = 'null';
+C.	String s3 = (String) 'abc';
+D.	String s4 = (String) '\ufeed';
+
+
+	
+What is the numerical range of a char?
+
+A.	-128 to 127
+B.	-(215) to (215) - 1
+C.	0 to 32767
+D.	0 to 65535         correct
